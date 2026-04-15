@@ -36,7 +36,6 @@ project/
 ├── routes/
 ├── middleware/
 ├── config/
-|--- utils
 ├── app.js
 └── server.js
 
